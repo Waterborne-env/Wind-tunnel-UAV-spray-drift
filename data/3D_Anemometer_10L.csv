@@ -1,0 +1,1891 @@
+"Location","Vel_dir","Height","H_m","Width","Source","Velocity_mph","Distance_m","Velocity_ms","Nom_WS","Vel_Dir_label"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -3m 1.5m-s",0.418489583333333,-3,0.187081583333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -3m 1.5m-s",1.97213541666667,-3,0.881623416666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -3m 1.5m-s",1.20088541666667,-3,0.536843816666667,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -3m 1.5m-s",-0.556875,-3,-0.2489454,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -3m 1.5m-s",2.20052083333333,-3,0.983720833333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -3m 1.5m-s",1.32953125,-3,0.59435365,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -3m 1.5m-s",-0.956354166666667,-3,-0.427528566666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -3m 1.5m-s",3.05755208333333,-3,1.36684808333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -3m 1.5m-s",0.78890625,-3,0.35267265,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -3m 1.5m-s",0.30078125,-3,0.13446125,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -3m 1.5m-s",3.20223958333333,-3,1.43152918333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -3m 1.5m-s",0.819947916666667,-3,0.366549516666667,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -3m 1.5m-s",-0.21046875,-3,-0.09408795,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -3m 1.5m-s",3.44307291666667,-3,1.53919131666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -3m 1.5m-s",1.06239583333333,-3,0.474933433333333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -3m 1.5m-s",-0.252708333333333,-3,-0.112970733333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -3m 1.5m-s",3.93546875,-3,1.75931195,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -3m 1.5m-s",0.384427083333333,-3,0.171854283333333,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -3m 1.5m-s",-0.135885416666667,-3,-0.0607462166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -3m 1.5m-s",4.0840625,-3,1.8257393,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -3m 1.5m-s",0.484114583333333,-3,0.216418583333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -3m 1.5m-s",-0.648072916666667,-3,-0.289714516666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -3m 1.5m-s",4.78276041666667,-3,2.13808521666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -3m 1.5m-s",0.333854166666667,-3,0.149246166666667,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -3m 1.5m-s",-0.26734375,-3,-0.11951335,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -3m 1.5m-s",4.80619791666667,-3,2.14856271666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -3m 1.5m-s",0.453072916666667,-3,0.202541716666667,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -3m 3m-s",0.0209895833333333,-3,0.00938318333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -3m 3m-s",6.4640625,-3,2.8896945,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -3m 3m-s",0.0514583333333333,-3,0.0230039333333333,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -3m 3m-s",0.0454166666666667,-3,0.0203030666666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -3m 3m-s",6.51791666666667,-3,2.91376946666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -3m 3m-s",0.196354166666667,-3,0.0877781666666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -3m 3m-s",-0.0461979166666667,-3,-0.0206523166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -3m 3m-s",5.74703125,-3,2.56915285,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -3m 3m-s",0.136770833333333,-3,0.0611420333333333,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -3m 3m-s",-0.00515625,-3,-0.00230505,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -3m 3m-s",6.26463541666667,-3,2.80054261666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -3m 3m-s",0.0392708333333333,-3,0.0175556333333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -3m 3m-s",-0.000677083333333333,-3,-0.000302683333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -3m 3m-s",6.33822916666667,-3,2.83344196666667,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -3m 3m-s",0.1053125,-3,0.0470789,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -3m 3m-s",0.0224479166666667,-3,0.0100351166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -3m 3m-s",6.37161458333333,-3,2.84836658333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -3m 3m-s",0.14375,-3,0.064262,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -3m 3m-s",-0.06015625,-3,-0.02689225,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -3m 3m-s",7.2496875,-3,3.2409003,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -3m 3m-s",0.0644791666666667,-3,0.0288247666666667,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -3m 3m-s",-0.176666666666667,-3,-0.0789770666666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -3m 3m-s",7.11276041666667,-3,3.17968841666667,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -3m 3m-s",0.0990625,-3,0.0442849,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -3m 3m-s",-0.00364583333333333,-3,-0.00162983333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -3m 3m-s",6.74380208333333,-3,3.01474928333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -3m 3m-s",0.09859375,-3,0.04407535,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -3m 4.5m-s",0.0494270833333333,-3,0.0220958833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -3m 4.5m-s",9.65359375,-3,4.31554255,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -3m 4.5m-s",0.0483333333333333,-3,0.0216069333333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -3m 4.5m-s",-0.0424479166666667,-3,-0.0189759166666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -3m 4.5m-s",9.92807291666667,-3,4.43824571666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -3m 4.5m-s",0.158802083333333,-3,0.0709908833333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -3m 4.5m-s",-0.02703125,-3,-0.01208405,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -3m 4.5m-s",8.57411458333333,-3,3.83297218333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -3m 4.5m-s",0.106041666666667,-3,0.0474048666666667,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -3m 4.5m-s",-0.0565625,-3,-0.0252857,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -3m 4.5m-s",9.48182291666667,-3,4.23875411666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -3m 4.5m-s",0.0221354166666667,-3,0.00989541666666667,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -3m 4.5m-s",0.02796875,-3,0.01250315,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -3m 4.5m-s",9.77322916666667,-3,4.36902436666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -3m 4.5m-s",0.0740104166666667,-3,0.0330856166666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -3m 4.5m-s",0.04046875,-3,0.01809115,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -3m 4.5m-s",9.73625,-3,4.3524932,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -3m 4.5m-s",0.142239583333333,-3,0.0635867833333333,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -3m 4.5m-s",-0.0834895833333333,-3,-0.0373231833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -3m 4.5m-s",10.5821875,-3,4.7306611,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -3m 4.5m-s",0.036875,-3,0.0164846,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -3m 4.5m-s",-0.209114583333333,-3,-0.0934825833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -3m 4.5m-s",10.7402083333333,-3,4.80130273333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -3m 4.5m-s",0.00682291666666667,-3,0.00305011666666667,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -3m 4.5m-s",-0.0566666666666667,-3,-0.0253322666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -3m 4.5m-s",10.194375,-3,4.5572934,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -3m 4.5m-s",0.0642708333333333,-3,0.0287316333333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -2m 1.5m-s",-0.527083333333333,-2,-0.235627333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -2m 1.5m-s",0.75578125,-2,0.33786445,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -2m 1.5m-s",0.896041666666667,-2,0.400566466666667,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -2m 1.5m-s",0.7484375,-2,0.3345815,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -2m 1.5m-s",0.948697916666667,-2,0.424105916666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -2m 1.5m-s",-0.385364583333333,-2,-0.172273383333333,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -2m 1.5m-s",1.608125,-2,0.7188962,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -2m 1.5m-s",1.72083333333333,-2,0.769281333333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -2m 1.5m-s",0.91828125,-2,0.41050845,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -2m 1.5m-s",-0.84359375,-2,-0.37712015,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -2m 1.5m-s",4.46546875,-2,1.99624315,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -2m 1.5m-s",1.01140625,-2,0.45213905,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -2m 1.5m-s",0.01328125,-2,0.00593725,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -2m 1.5m-s",5.90979166666667,-2,2.64191326666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -2m 1.5m-s",-0.586197916666667,-2,-0.262053916666667,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -2m 1.5m-s",0.0175,-2,0.0078232,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -2m 1.5m-s",5.21333333333333,-2,2.33056853333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -2m 1.5m-s",0.600052083333333,-2,0.268247283333333,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -2m 1.5m-s",-1.29640625,-2,-0.57954545,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -2m 1.5m-s",5.6021875,-2,2.5044019,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -2m 1.5m-s",0.146614583333333,-2,0.0655425833333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -2m 1.5m-s",-0.888072916666667,-2,-0.397004116666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -2m 1.5m-s",6.44635416666667,-2,2.88177816666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -2m 1.5m-s",-0.2484375,-2,-0.1110615,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -2m 1.5m-s",0.215416666666667,-2,0.0962998666666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -2m 1.5m-s",5.84072916666667,-2,2.61103956666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -2m 1.5m-s",0.255260416666667,-2,0.114111616666667,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -2m 3m-s",0.170104166666667,-2,0.0760433666666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -2m 3m-s",6.3990625,-2,2.8606369,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -2m 3m-s",0.400416666666667,-2,0.179002266666667,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -2m 3m-s",0.151510416666667,-2,0.0677312166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -2m 3m-s",5.9578125,-2,2.6633805,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -2m 3m-s",0.451770833333333,-2,0.201959633333333,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -2m 3m-s",-0.340572916666667,-2,-0.152249716666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -2m 3m-s",5.17692708333333,-2,2.31429348333333,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -2m 3m-s",0.493125,-2,0.2204466,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -2m 3m-s",0.00411458333333333,-2,0.00183938333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -2m 3m-s",6.07817708333333,-2,2.71718828333333,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -2m 3m-s",0.496302083333333,-2,0.221866883333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -2m 3m-s",-0.10296875,-2,-0.04603115,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -2m 3m-s",6.09895833333333,-2,2.72647833333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -2m 3m-s",0.6709375,-2,0.2999359,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -2m 3m-s",-0.340104166666667,-2,-0.152040166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -2m 3m-s",6.32510416666667,-2,2.82757456666667,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -2m 3m-s",0.715364583333333,-2,0.319796583333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -2m 3m-s",-0.151510416666667,-2,-0.0677312166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -2m 3m-s",7.58765625,-2,3.39198585,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -2m 3m-s",0.47109375,-2,0.21059775,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -2m 3m-s",-0.218072916666667,-2,-0.0974873166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -2m 3m-s",7.63140625,-2,3.41154385,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -2m 3m-s",0.63015625,-2,0.28170505,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -2m 3m-s",-0.219427083333333,-2,-0.0980926833333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -2m 3m-s",7.2025,-2,3.2198056,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -2m 3m-s",0.517760416666667,-2,0.231459616666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -2m 4.5m-s",0.17234375,-2,0.07704455,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -2m 4.5m-s",9.82119791666667,-2,4.39046831666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -2m 4.5m-s",0.323958333333333,-2,0.144822333333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -2m 4.5m-s",0.208541666666667,-2,0.0932264666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -2m 4.5m-s",9.51932291666667,-2,4.25551811666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -2m 4.5m-s",0.38125,-2,0.170434,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -2m 4.5m-s",-0.27328125,-2,-0.12216765,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -2m 4.5m-s",8.246875,-2,3.686683,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -2m 4.5m-s",0.452552083333333,-2,0.202308883333333,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -2m 4.5m-s",0.0754166666666667,-2,0.0337142666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -2m 4.5m-s",9.3884375,-2,4.1970071,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -2m 4.5m-s",0.362552083333333,-2,0.162075283333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -2m 4.5m-s",-0.11296875,-2,-0.05050155,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -2m 4.5m-s",9.65166666666667,-2,4.31468106666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -2m 4.5m-s",0.519479166666667,-2,0.232227966666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -2m 4.5m-s",-0.312239583333333,-2,-0.139583583333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -2m 4.5m-s",9.68651041666667,-2,4.33025761666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -2m 4.5m-s",0.639114583333333,-2,0.285709783333333,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -2m 4.5m-s",-0.212447916666667,-2,-0.0949727166666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -2m 4.5m-s",11.01890625,-2,4.92589185,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -2m 4.5m-s",0.28484375,-2,0.12733655,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -2m 4.5m-s",-0.16109375,-2,-0.07201535,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -2m 4.5m-s",11.1815625,-2,4.9986057,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -2m 4.5m-s",0.342083333333333,-2,0.152924933333333,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -2m 4.5m-s",-0.1959375,-2,-0.0875919,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -2m 4.5m-s",10.7607291666667,-2,4.81047636666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -2m 4.5m-s",0.377552083333333,-2,0.168780883333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -1m 1.5m-s",-0.208125,-1,-0.0930402,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -1m 1.5m-s",1.26078125,-1,0.56361965,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -1m 1.5m-s",0.147604166666667,-1,0.0659849666666667,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -1m 1.5m-s",0.467708333333333,-1,0.209084333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -1m 1.5m-s",1.53625,-1,0.6867652,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -1m 1.5m-s",-1.79208333333333,-1,-0.801132933333333,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -1m 1.5m-s",2.41494791666667,-1,1.07957831666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -1m 1.5m-s",3.0365625,-1,1.3574649,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -1m 1.5m-s",-0.148958333333333,-1,-0.0665903333333333,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -1m 1.5m-s",-2.2853125,-1,-1.0216261,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -1m 1.5m-s",4.82526041666667,-1,2.15708441666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -1m 1.5m-s",-0.126979166666667,-1,-0.0567647666666667,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -1m 1.5m-s",-0.16109375,-1,-0.07201535,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -1m 1.5m-s",11.1815625,-1,4.9986057,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -1m 1.5m-s",0.342083333333333,-1,0.152924933333333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -1m 1.5m-s",1.41786458333333,-1,0.633842183333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -1m 1.5m-s",6.06302083333333,-1,2.71041283333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -1m 1.5m-s",-0.0960416666666667,-1,-0.0429344666666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -1m 1.5m-s",-3.05140625,-1,-1.36410065,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -1m 1.5m-s",6.07088541666667,-1,2.71392861666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -1m 1.5m-s",-0.06359375,-1,-0.02842895,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -1m 1.5m-s",,-1,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -1m 1.5m-s",,-1,,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -1m 1.5m-s",,-1,,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -1m 1.5m-s",1.61458333333333,-1,0.721783333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -1m 1.5m-s",6.198125,-1,2.7708098,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -1m 1.5m-s",0.893125,-1,0.3992626,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -1m 3m-s",0.793177083333333,-1,0.354581883333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -1m 3m-s",5.955,-1,2.6621232,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -1m 3m-s",1.82916666666667,-1,0.817710666666667,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -1m 3m-s",-1.2515625,-1,-0.5594985,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -1m 3m-s",3.06546875,-1,1.37038715,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -1m 3m-s",0.628958333333333,-1,0.281169533333333,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -1m 3m-s",-0.896927083333333,-1,-0.400962283333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -1m 3m-s",4.644375,-1,2.0762214,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -1m 3m-s",1.39536458333333,-1,0.623783783333333,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -1m 3m-s",0.3190625,-1,0.1426337,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -1m 3m-s",6.030625,-1,2.6959306,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -1m 3m-s",1.99463541666667,-1,0.891681816666667,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -1m 3m-s",0.12890625,-1,0.05762625,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -1m 3m-s",2.18078125,-1,0.97489645,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -1m 3m-s",2.36473958333333,-1,1.05713318333333,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -1m 3m-s",-1.44380208333333,-1,-0.645437283333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -1m 3m-s",6.36015625,-1,2.84324425,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -1m 3m-s",1.96567708333333,-1,0.878736283333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -1m 3m-s",-0.82359375,-1,-0.36817935,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -1m 3m-s",8.754375,-1,3.9135558,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -1m 3m-s",2.1425,-1,0.9577832,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -1m 3m-s",,-1,,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -1m 3m-s",,-1,,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -1m 3m-s",,-1,,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -1m 3m-s",0.773125,-1,0.3456178,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -1m 3m-s",8.63520833333333,-1,3.86028353333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -1m 3m-s",2.50203125,-1,1.11850805,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw -1m 4.5m-s",0.232604166666667,-1,0.103983366666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw -1m 4.5m-s",9.4990625,-1,4.2464609,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw -1m 4.5m-s",1.62588541666667,-1,0.726835816666667,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw -1m 4.5m-s",-0.198854166666667,-1,-0.0888957666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw -1m 4.5m-s",7.71057291666667,-1,3.44693451666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw -1m 4.5m-s",1.16828125,-1,0.52226845,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw -1m 4.5m-s",-0.94953125,-1,-0.42447845,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw -1m 4.5m-s",7.0378125,-1,3.1461837,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw -1m 4.5m-s",1.38994791666667,-1,0.621362316666667,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw -1m 4.5m-s",-0.03,-1,-0.0134112,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw -1m 4.5m-s",9.26921875,-1,4.14371155,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw -1m 4.5m-s",1.64390625,-1,0.73489185,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw -1m 4.5m-s",-0.07125,-1,-0.0318516,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw -1m 4.5m-s",7.87036458333333,-1,3.51836778333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw -1m 4.5m-s",1.36057291666667,-1,0.608230516666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw -1m 4.5m-s",-1.05364583333333,-1,-0.471021833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw -1m 4.5m-s",9.50973958333333,-1,4.25123398333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw -1m 4.5m-s",2.16598958333333,-1,0.968283983333333,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw -1m 4.5m-s",-0.645572916666667,-1,-0.288596916666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw -1m 4.5m-s",12.1228645833333,-1,5.41940538333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw -1m 4.5m-s",1.78911458333333,-1,0.799805783333333,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw -1m 4.5m-s",,-1,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw -1m 4.5m-s",,-1,,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw -1m 4.5m-s",,-1,,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw -1m 4.5m-s",0.834791666666667,-1,0.373185266666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw -1m 4.5m-s",11.8578125,-1,5.3009165,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw -1m 4.5m-s",2.38161458333333,-1,1.06467698333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw 0m 1.5m-s",-0.306510416666667,0,-0.137022416666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw 0m 1.5m-s",4.36958333333333,0,1.95337853333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw 0m 1.5m-s",-0.743645833333333,0,-0.332439433333333,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw 0m 1.5m-s",-0.291197916666667,0,-0.130177116666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw 0m 1.5m-s",7.35682291666667,0,3.28879411666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw 0m 1.5m-s",-12.2593229166667,0,-5.48040771666667,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw 0m 1.5m-s",-0.54984375,0,-0.24580215,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw 0m 1.5m-s",7.57640625,0,3.38695665,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw 0m 1.5m-s",-2.29729166666667,0,-1.02698126666667,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw 0m 1.5m-s",-1.746875,0,-0.780923,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw 0m 1.5m-s",5.78557291666667,0,2.58638251666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw 0m 1.5m-s",-0.3421875,0,-0.1529715,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw 0m 1.5m-s",1.571875,0,0.702691,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw 0m 1.5m-s",9.34921875,0,4.17947475,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw 0m 1.5m-s",-1.21515625,0,-0.54322345,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw 0m 1.5m-s",,0,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw 0m 1.5m-s",,0,,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw 0m 1.5m-s",,0,,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw 0m 1.5m-s",,0,,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw 0m 1.5m-s",,0,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw 0m 1.5m-s",,0,,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw 0m 1.5m-s",,0,,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw 0m 3m-s",0.79484375,0,0.35532695,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw 0m 3m-s",6.36369791666667,0,2.84482751666667,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw 0m 3m-s",3.48614583333333,0,1.55844663333333,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw 0m 3m-s",-0.116875,0,-0.0522478,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw 0m 3m-s",3.81890625,0,1.70720385,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw 0m 3m-s",-2.26432291666667,0,-1.01224291666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw 0m 3m-s",-1.70239583333333,0,-0.761039033333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw 0m 3m-s",6.32390625,0,2.82703905,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw 0m 3m-s",0.572916666666667,0,0.256116666666667,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw 0m 3m-s",3.459375,0,1.546479,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw 0m 3m-s",10.6376041666667,0,4.75543456666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw 0m 3m-s",6.69921875,0,2.99481875,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw 0m 3m-s",,0,,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw 0m 3m-s",,0,,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw 0m 3m-s",,0,,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw 0m 3m-s",-2.89354166666667,0,-1.29352886666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw 0m 3m-s",9.93015625,0,4.43917705,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw 0m 3m-s",4.7278125,0,2.1135213,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw 0m 3m-s",,0,,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw 0m 3m-s",,0,,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw 0m 3m-s",,0,,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw 0m 3m-s",,0,,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw 0m 3m-s",,0,,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw 0m 3m-s",,0,,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw 0m 3m-s",,0,,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw 0m 3m-s",,0,,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw 0m 3m-s",,0,,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw 0m 4.5m-s",1.99671875,0,0.89261315,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw 0m 4.5m-s",11.17296875,0,4.99476395,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw 0m 4.5m-s",3.026875,0,1.3531342,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw 0m 4.5m-s",-0.95375,0,-0.4263644,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw 0m 4.5m-s",9.73427083333333,0,4.35160843333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw 0m 4.5m-s",1.36015625,0,0.60804425,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw 0m 4.5m-s",-1.49786458333333,0,-0.669605383333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw 0m 4.5m-s",7.99526041666667,0,3.57420121666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw 0m 4.5m-s",1.8634375,0,0.8330311,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw 0m 4.5m-s",2.31770833333333,0,1.03610833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw 0m 4.5m-s",10.56125,0,4.7213012,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw 0m 4.5m-s",4.48395833333333,0,2.00450873333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw 0m 4.5m-s",-2.8940625,0,-1.2937617,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw 0m 4.5m-s",10.423125,0,4.6595538,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw 0m 4.5m-s",4.12479166666667,0,1.84394686666667,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw 0m 4.5m-s",,0,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw 0m 4.5m-s",,0,,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw 0m 4.5m-s",,0,,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw 0m 4.5m-s",,0,,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw 0m 4.5m-s",,0,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw 0m 4.5m-s",,0,,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw 0m 4.5m-s",,0,,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +1m 1.5m-s",2.08223958333333,1,0.930844383333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +1m 1.5m-s",6.84338541666667,1,3.05926701666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +1m 1.5m-s",-3.8846875,1,-1.7366107,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +1m 1.5m-s",0.30171875,1,0.13488035,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +1m 1.5m-s",4.69994791666667,1,2.10106471666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +1m 1.5m-s",-11.4074479166667,1,-5.09958551666667,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +1m 1.5m-s",-1.89484375,1,-0.84707095,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +1m 1.5m-s",6.56072916666667,1,2.93290836666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +1m 1.5m-s",-2.479375,1,-1.1083798,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +1m 1.5m-s",-1.37166666666667,1,-0.613189866666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +1m 1.5m-s",2.54427083333333,1,1.13739083333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +1m 1.5m-s",-0.0882291666666667,1,-0.0394419666666667,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +1m 1.5m-s",3.81932291666667,1,1.70739011666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +1m 1.5m-s",3.454375,1,1.5442438,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +1m 1.5m-s",-10.3258854166667,1,-4.61608381666667,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +1m 1.5m-s",1.56494791666667,1,0.699594316666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +1m 1.5m-s",3.35442708333333,1,1.49956308333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +1m 1.5m-s",-0.0402604166666667,1,-0.0179980166666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +1m 1.5m-s",-3.78942708333333,1,-1.69402548333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +1m 1.5m-s",1.39005208333333,1,0.621408883333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +1m 1.5m-s",-0.00499999999999999,1,-0.0022352,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +1m 1.5m-s",,1,,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +1m 1.5m-s",,1,,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +1m 1.5m-s",,1,,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +1m 1.5m-s",3.56713541666667,1,1.59465221666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +1m 1.5m-s",0.653854166666667,1,0.292298966666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +1m 1.5m-s",1.06604166666667,1,0.476563266666667,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +1m 3m-s",2.63791666666667,1,1.17925426666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +1m 3m-s",10.1609895833333,1,4.54236878333333,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +1m 3m-s",-1.5453125,1,-0.6908165,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +1m 3m-s",0.56109375,1,0.25083135,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +1m 3m-s",4.51348958333333,1,2.01771038333333,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +1m 3m-s",-15.7927083333333,1,-7.05997233333333,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +1m 3m-s",-0.86,1,-0.3844544,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +1m 3m-s",12.0998958333333,1,5.40913743333333,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +1m 3m-s",0.0918229166666667,1,0.0410485166666667,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +1m 3m-s",-6.50286458333333,1,-2.90704058333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +1m 3m-s",12.6905729166667,1,5.67319371666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +1m 3m-s",1.38395833333333,1,0.618684733333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +1m 3m-s",0.675208333333333,1,0.301845133333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +1m 3m-s",4.54161458333333,1,2.03028338333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +1m 3m-s",-15.2997395833333,1,-6.83959558333333,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +1m 3m-s",4.84364583333333,1,2.16530343333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +1m 3m-s",10.2064583333333,1,4.56269513333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +1m 3m-s",3.284375,1,1.468247,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +1m 3m-s",-7.20828125,1,-3.22239005,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +1m 3m-s",8.45125,1,3.7780468,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +1m 3m-s",0.896145833333333,1,0.400613033333333,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +1m 3m-s",,1,,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +1m 3m-s",,1,,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +1m 3m-s",,1,,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +1m 3m-s",6.93765625,1,3.10140985,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +1m 3m-s",7.85338541666667,1,3.51077741666667,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +1m 3m-s",0.0334895833333333,1,0.0149711833333333,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +1m 4.5m-s",9.9615625,1,4.4532169,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +1m 4.5m-s",16.63953125,1,7.43853605,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +1m 4.5m-s",-8.32015625,1,-3.71944265,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +1m 4.5m-s",0.3721875,1,0.1663827,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +1m 4.5m-s",9.978125,1,4.460621,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +1m 4.5m-s",-9.73994791666667,1,-4.35414631666667,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +1m 4.5m-s",-6.173125,1,-2.7596338,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +1m 4.5m-s",12.73265625,1,5.69200665,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +1m 4.5m-s",-2.33567708333333,1,-1.04414108333333,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +1m 4.5m-s",-2.46291666666667,1,-1.10102226666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +1m 4.5m-s",20.9652083333333,1,9.37228673333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +1m 4.5m-s",2.27552083333333,1,1.01724883333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +1m 4.5m-s",2.93734375,1,1.31311015,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +1m 4.5m-s",7.4709375,1,3.3398079,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +1m 4.5m-s",-18.9138020833333,1,-8.45522608333333,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +1m 4.5m-s",-0.621354166666667,1,-0.277770166666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +1m 4.5m-s",13.0966145833333,1,5.85471058333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +1m 4.5m-s",5.90916666666667,1,2.64163386666667,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +1m 4.5m-s",-8.75083333333333,1,-3.91197253333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +1m 4.5m-s",13.1378645833333,1,5.87315098333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +1m 4.5m-s",1.98973958333333,1,0.889493183333333,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +1m 4.5m-s",,1,,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +1m 4.5m-s",,1,,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +1m 4.5m-s",,1,,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +1m 4.5m-s",7.33385416666667,1,3.27852616666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +1m 4.5m-s",12.67171875,1,5.66476515,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +1m 4.5m-s",2.17104166666667,1,0.970542466666667,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +2m 1.5m-s",2.38364583333333,2,1.06558503333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +2m 1.5m-s",2.98588541666667,2,1.33481021666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +2m 1.5m-s",-0.146510416666667,2,-0.0654960166666667,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +2m 1.5m-s",-1.06390625,2,-0.47560865,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +2m 1.5m-s",2.0959375,2,0.9369679,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +2m 1.5m-s",-0.74515625,2,-0.33311465,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +2m 1.5m-s",-2.83052083333333,2,-1.26535603333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +2m 1.5m-s",5.49125,2,2.4548084,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +2m 1.5m-s",-1.4625,2,-0.653796,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +2m 1.5m-s",1.70296875,2,0.76129515,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +2m 1.5m-s",-0.191927083333333,2,-0.0857990833333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +2m 1.5m-s",-1.17833333333333,2,-0.526762133333333,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +2m 1.5m-s",-0.48125,2,-0.215138,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +2m 1.5m-s",0.530104166666667,2,0.236977766666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +2m 1.5m-s",-2.42192708333333,2,-1.08269828333333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +2m 1.5m-s",-1.45447916666667,2,-0.650210366666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +2m 1.5m-s",-0.637760416666667,2,-0.285104416666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +2m 1.5m-s",0.144895833333333,2,0.0647742333333333,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +2m 1.5m-s",-0.944947916666667,2,-0.422429516666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +2m 1.5m-s",0.05921875,2,0.02647315,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +2m 1.5m-s",-1.52630208333333,2,-0.682318083333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +2m 1.5m-s",1.51416666666667,2,0.676893066666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +2m 1.5m-s",0.911875,2,0.4076446,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +2m 1.5m-s",-3.61359375,2,-1.61542095,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +2m 1.5m-s",1.74713541666667,2,0.781039416666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +2m 1.5m-s",-0.34640625,2,-0.15485745,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +2m 1.5m-s",0.149739583333333,2,0.0669395833333333,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +2m 3m-s",4.12598958333333,2,1.84448238333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +2m 3m-s",8.80541666666667,2,3.93637346666667,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +2m 3m-s",-1.56864583333333,2,-0.701247433333333,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +2m 3m-s",-0.210208333333333,2,-0.0939715333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +2m 3m-s",3.49994791666667,2,1.56461671666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +2m 3m-s",-3.83916666666667,2,-1.71626106666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +2m 3m-s",-2.89890625,2,-1.29592705,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +2m 3m-s",8.00463541666667,2,3.57839221666667,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +2m 3m-s",-0.44421875,2,-0.19858355,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +2m 3m-s",-4.44817708333333,2,-1.98851308333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +2m 3m-s",9.09572916666667,2,4.06615476666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +2m 3m-s",-0.97046875,2,-0.43383835,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +2m 3m-s",0.940364583333333,2,0.420380583333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +2m 3m-s",4.43421875,2,1.98227315,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +2m 3m-s",-4.15671875,2,-1.85821955,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +2m 3m-s",3.26822916666667,2,1.46102916666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +2m 3m-s",5.38505208333333,2,2.40733368333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +2m 3m-s",-0.5490625,2,-0.2454529,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +2m 3m-s",-3.9709375,2,-1.7751679,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +2m 3m-s",7.63041666666667,2,3.41110146666667,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +2m 3m-s",-2.19895833333333,2,-0.983022333333333,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +2m 3m-s",0.6590625,2,0.2946273,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +2m 3m-s",5.39072916666667,2,2.40987156666667,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +2m 3m-s",-0.962239583333333,2,-0.430159583333333,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +2m 3m-s",3.96963541666667,2,1.77458581666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +2m 3m-s",7.38557291666667,2,3.30164651666667,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +2m 3m-s",-1.17994791666667,2,-0.527483916666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +2m 4.5m-s",10.9238020833333,2,4.88337648333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +2m 4.5m-s",16.0911979166667,2,7.19340911666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +2m 4.5m-s",-1.71270833333333,2,-0.765649133333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +2m 4.5m-s",0.02515625,2,0.01124585,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +2m 4.5m-s",5.23088541666667,2,2.33841501666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +2m 4.5m-s",-5.92833333333333,2,-2.65020213333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +2m 4.5m-s",-10.17140625,2,-4.54702545,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +2m 4.5m-s",14.1202604166667,2,6.31232121666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +2m 4.5m-s",-4.90375,2,-2.1921724,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +2m 4.5m-s",-3.4296875,2,-1.5332075,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +2m 4.5m-s",15.6209895833333,2,6.98320718333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +2m 4.5m-s",0.837552083333333,2,0.374419283333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +2m 4.5m-s",1.11953125,2,0.50047525,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +2m 4.5m-s",5.28723958333333,2,2.36360758333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +2m 4.5m-s",-7.90119791666667,2,-3.53215151666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +2m 4.5m-s",2.53583333333333,2,1.13361893333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +2m 4.5m-s",12.90171875,2,5.76758435,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +2m 4.5m-s",2.776875,2,1.2413742,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +2m 4.5m-s",-7.01734375,2,-3.13703335,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +2m 4.5m-s",11.0105208333333,2,4.92214323333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +2m 4.5m-s",-1.17265625,2,-0.52422425,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +2m 4.5m-s",1.79166666666667,2,0.800946666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +2m 4.5m-s",7.83046875,2,3.50053275,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +2m 4.5m-s",-3.06583333333333,2,-1.37055013333333,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +2m 4.5m-s",5.84817708333333,2,2.61436908333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +2m 4.5m-s",10.86703125,2,4.85799765,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +2m 4.5m-s",-0.5096875,2,-0.2278507,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +3m 1.5m-s",2.45125,3,1.0958068,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +3m 1.5m-s",3.58588541666667,3,1.60303421666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +3m 1.5m-s",-0.356614583333333,3,-0.159420983333333,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +3m 1.5m-s",-0.889791666666667,3,-0.397772466666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +3m 1.5m-s",6.63713541666667,3,2.96706501666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +3m 1.5m-s",-0.294947916666667,3,-0.131853516666667,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +3m 1.5m-s",-2.625,3,-1.17348,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +3m 1.5m-s",6.19177083333333,3,2.76796923333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +3m 1.5m-s",0.383333333333333,3,0.171365333333333,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +3m 1.5m-s",2.35244791666667,3,1.05163831666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +3m 1.5m-s",0.541770833333333,3,0.242193233333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +3m 1.5m-s",-0.870833333333333,3,-0.389297333333333,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +3m 1.5m-s",-0.515833333333333,3,-0.230598133333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +3m 1.5m-s",0.163385416666667,3,0.0730398166666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +3m 1.5m-s",-1.66927083333333,3,-0.746230833333333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +3m 1.5m-s",-1.83885416666667,3,-0.822041366666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +3m 1.5m-s",0.173489583333333,3,0.0775567833333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +3m 1.5m-s",1.20130208333333,3,0.537030083333333,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +3m 1.5m-s",-1.30739583333333,3,-0.584458233333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +3m 1.5m-s",0.238020833333333,3,0.106404833333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +3m 1.5m-s",-0.996875,3,-0.445643,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +3m 1.5m-s",0.990677083333333,3,0.442872283333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +3m 1.5m-s",1.24947916666667,3,0.558567166666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +3m 1.5m-s",-2.77333333333333,3,-1.23979093333333,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +3m 1.5m-s",1.7784375,3,0.7950327,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +3m 1.5m-s",0.428020833333333,3,0.191342433333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +3m 1.5m-s",0.0109375,3,0.0048895,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +3m 3m-s",1.86734375,3,0.83477735,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +3m 3m-s",6.15291666666667,3,2.75059986666667,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +3m 3m-s",-0.324010416666667,3,-0.144845616666667,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +3m 3m-s",-0.70234375,3,-0.31397575,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +3m 3m-s",5.90901041666667,3,2.64156401666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +3m 3m-s",-3.29,3,-1.4707616,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +3m 3m-s",-3.70848958333333,3,-1.65784318333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +3m 3m-s",6.62432291666667,3,2.96133731666667,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +3m 3m-s",1.19130208333333,3,0.532559683333333,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +3m 3m-s",-0.49875,3,-0.2229612,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +3m 3m-s",8.57505208333333,3,3.83339128333333,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +3m 3m-s",-2.55291666666667,3,-1.14125586666667,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +3m 3m-s",0.2303125,3,0.1029589,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +3m 3m-s",7.05770833333333,3,3.15507793333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +3m 3m-s",-3.07729166666667,3,-1.37567246666667,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +3m 3m-s",0.0228645833333333,3,0.0102213833333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +3m 3m-s",4.27598958333333,3,1.91153838333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +3m 3m-s",-1.07619791666667,3,-0.481103516666667,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +3m 3m-s",-1.51796875,3,-0.67859275,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +3m 3m-s",6.59234375,3,2.94704135,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +3m 3m-s",-2.20375,3,-0.9851644,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +3m 3m-s",0.671145833333333,3,0.300029033333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +3m 3m-s",6.06734375,3,2.71234535,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +3m 3m-s",-2.09880208333333,3,-0.938248483333333,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +3m 3m-s",1.34109375,3,0.59952255,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +3m 3m-s",5.425,3,2.425192,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +3m 3m-s",-1.97697916666667,3,-0.883788766666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +3m 4.5m-s",5.60265625,3,2.50461145,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +3m 4.5m-s",7.09416666666667,3,3.17137626666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +3m 4.5m-s",1.96385416666667,3,0.877921366666667,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +3m 4.5m-s",-0.0844270833333333,3,-0.0377422833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +3m 4.5m-s",7.516875,3,3.3603438,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +3m 4.5m-s",-5.61989583333333,3,-2.51231823333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +3m 4.5m-s",-5.78604166666667,3,-2.58659206666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +3m 4.5m-s",9.80651041666667,3,4.38390241666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +3m 4.5m-s",2.41244791666667,3,1.07846071666667,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +3m 4.5m-s",-3.06729166666667,3,-1.37120206666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +3m 4.5m-s",12.6618229166667,3,5.66034131666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +3m 4.5m-s",0.590625,3,0.264033,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +3m 4.5m-s",0.63421875,3,0.28352115,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +3m 4.5m-s",9.01526041666667,3,4.03018201666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +3m 4.5m-s",-5.7934375,3,-2.5898983,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +3m 4.5m-s",2.38104166666667,3,1.06442086666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +3m 4.5m-s",9.51140625,3,4.25197905,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +3m 4.5m-s",0.785729166666667,3,0.351252366666667,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +3m 4.5m-s",-4.87453125,3,-2.17911045,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +3m 4.5m-s",10.0445833333333,3,4.49033053333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +3m 4.5m-s",-1.38994791666667,3,-0.621362316666667,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +3m 4.5m-s",0.614479166666667,3,0.274696766666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +3m 4.5m-s",10.16890625,3,4.54590785,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +3m 4.5m-s",-2.5759375,3,-1.1515471,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +3m 4.5m-s",3.27052083333333,3,1.46205363333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +3m 4.5m-s",9.20916666666667,3,4.11686586666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +3m 4.5m-s",-2.20723958333333,3,-0.986724383333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +4m 1.5 m-s",1.57666666666667,4,0.704833066666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +4m 1.5 m-s",3.37203125,4,1.50743285,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +4m 1.5 m-s",0.0183854166666667,4,0.00821901666666666,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +4m 1.5 m-s",-0.436979166666667,4,-0.195347166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +4m 1.5 m-s",3.38458333333333,4,1.51304413333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +4m 1.5 m-s",-0.4246875,4,-0.1898523,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +4m 1.5 m-s",-2.66729166666667,4,-1.19238606666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +4m 1.5 m-s",4.44755208333333,4,1.98823368333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +4m 1.5 m-s",0.738958333333333,4,0.330343933333333,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +4m 1.5 m-s",1.77,4,0.7912608,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +4m 1.5 m-s",0.146875,4,0.065659,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +4m 1.5 m-s",-0.2365625,4,-0.1057529,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +4m 1.5 m-s",-0.105520833333333,4,-0.0471720333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +4m 1.5 m-s",1.03036458333333,4,0.460614183333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +4m 1.5 m-s",-1.8178125,4,-0.8126349,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +4m 1.5 m-s",-1.18567708333333,4,-0.530045083333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +4m 1.5 m-s",1.22026041666667,4,0.545505216666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +4m 1.5 m-s",0.48765625,4,0.21800185,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +4m 1.5 m-s",-1.05848958333333,4,-0.473187183333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +4m 1.5 m-s",0.725104166666667,4,0.324150566666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +4m 1.5 m-s",-0.176614583333333,4,-0.0789537833333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +4m 1.5 m-s",0.406770833333333,4,0.181842833333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +4m 1.5 m-s",1.43239583333333,4,0.640338233333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +4m 1.5 m-s",-2.28463541666667,4,-1.02132341666667,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +4m 1.5 m-s",1.59322916666667,4,0.712237166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +4m 1.5 m-s",0.686770833333333,4,0.307014033333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +4m 1.5 m-s",-0.430572916666667,4,-0.192483316666667,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +4m 3m-s",2.0303125,4,0.9076309,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +4m 3m-s",7.1946875,4,3.2163131,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +4m 3m-s",-1.96515625,4,-0.87850345,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +4m 3m-s",0.0233333333333333,4,0.0104309333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +4m 3m-s",6.74458333333333,4,3.01509853333333,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +4m 3m-s",-2.06432291666667,4,-0.922834916666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +4m 3m-s",-2.49265625,4,-1.11431705,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +4m 3m-s",4.75109375,4,2.12392895,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +4m 3m-s",0.0229166666666667,4,0.0102446666666667,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +4m 3m-s",1.58947916666667,4,0.710560766666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +4m 3m-s",7.6625,4,3.425444,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +4m 3m-s",-1.74520833333333,4,-0.780177933333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +4m 3m-s",0.11296875,4,0.05050155,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +4m 3m-s",7.26109375,4,3.24599935,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +4m 3m-s",-2.75895833333333,4,-1.23336473333333,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +4m 3m-s",-1.05692708333333,4,-0.472488683333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +4m 3m-s",4.98677083333333,4,2.22928603333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +4m 3m-s",-0.799583333333333,4,-0.357445733333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +4m 3m-s",-1.21213541666667,4,-0.541873016666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +4m 3m-s",6.085,4,2.7202384,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +4m 3m-s",-0.871041666666667,4,-0.389390466666667,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +4m 3m-s",0.404791666666667,4,0.180958066666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +4m 3m-s",6.77145833333333,4,3.02711273333333,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +4m 3m-s",-2.01645833333333,4,-0.901437533333333,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +4m 3m-s",1.35885416666667,4,0.607462166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +4m 3m-s",4.03145833333333,4,1.80222313333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +4m 3m-s",-1.0734375,4,-0.4798695,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +4m 4.5m-s",3.1571875,4,1.4113891,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +4m 4.5m-s",8.52744791666667,4,3.81211031666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +4m 4.5m-s",-0.813020833333333,4,-0.363452833333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +4m 4.5m-s",0.2178125,4,0.0973709,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +4m 4.5m-s",9.3475,4,4.1787064,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +4m 4.5m-s",-4.32880208333333,4,-1.93514768333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +4m 4.5m-s",-2.77015625,4,-1.23837065,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +4m 4.5m-s",5.08588541666667,4,2.27359421666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +4m 4.5m-s",2.69692708333333,4,1.20563428333333,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +4m 4.5m-s",-3.53260416666667,4,-1.57921536666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +4m 4.5m-s",13.7954166666667,4,6.16710306666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +4m 4.5m-s",-0.39640625,4,-0.17720945,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +4m 4.5m-s",1.09963541666667,4,0.491581016666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +4m 4.5m-s",10.5809375,4,4.7301023,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +4m 4.5m-s",-4.35723958333333,4,-1.94786038333333,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +4m 4.5m-s",1.87583333333333,4,0.838572533333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +4m 4.5m-s",9.28359375,4,4.15013775,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +4m 4.5m-s",-0.0327083333333333,4,-0.0146219333333333,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +4m 4.5m-s",-2.76822916666667,4,-1.23750916666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +4m 4.5m-s",9.42098958333333,4,4.21155918333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +4m 4.5m-s",-1.94505208333333,4,-0.869516083333333,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +4m 4.5m-s",0.366927083333333,4,0.164031083333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +4m 4.5m-s",11.3297916666667,4,5.06487006666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +4m 4.5m-s",-2.25359375,4,-1.00744655,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +4m 4.5m-s",0.961770833333333,4,0.429950033333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +4m 4.5m-s",8.496875,4,3.798443,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +4m 4.5m-s",-1.55869791666667,4,-0.696800316666667,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +5m 1.5 m-s",1.35958333333333,5,0.607788133333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +5m 1.5 m-s",3.46901041666667,5,1.55078641666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +5m 1.5 m-s",-0.00520833333333333,5,-0.00232833333333333,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +5m 1.5 m-s",-0.706302083333333,5,-0.315745283333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +5m 1.5 m-s",1.67354166666667,5,0.748140066666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +5m 1.5 m-s",-0.948802083333333,5,-0.424152483333333,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +5m 1.5 m-s",-2.47161458333333,5,-1.10491058333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +5m 1.5 m-s",4.37,5,1.9535648,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +5m 1.5 m-s",0.839166666666667,5,0.375141066666667,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +5m 1.5 m-s",1.32536458333333,5,0.592490983333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +5m 1.5 m-s",1.16734375,5,0.52184935,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +5m 1.5 m-s",-0.155833333333333,5,-0.0696637333333333,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +5m 1.5 m-s",-0.122447916666667,5,-0.0547391166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +5m 1.5 m-s",1.22098958333333,5,0.545831183333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +5m 1.5 m-s",-1.91541666666667,5,-0.856267866666667,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +5m 1.5 m-s",-1.10333333333333,5,-0.493234133333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +5m 1.5 m-s",1.21364583333333,5,0.542548233333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +5m 1.5 m-s",1.03213541666667,5,0.461405816666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +5m 1.5 m-s",-1.17572916666667,5,-0.525597966666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +5m 1.5 m-s",0.941510416666667,5,0.420892816666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +5m 1.5 m-s",0.1153125,5,0.0515493,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +5m 1.5 m-s",-0.42734375,5,-0.19103975,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +5m 1.5 m-s",1.33572916666667,5,0.597124366666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +5m 1.5 m-s",-2.42921875,5,-1.08595795,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +5m 1.5 m-s",2.24697916666667,5,1.00448956666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +5m 1.5 m-s",1.221875,5,0.546227,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +5m 1.5 m-s",-0.0186458333333333,5,-0.00833543333333333,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +5m 3m-s",2.18973958333333,5,0.978901183333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +5m 3m-s",7.3890625,5,3.3032065,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +5m 3m-s",-1.22578125,5,-0.54797325,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +5m 3m-s",-0.196770833333333,5,-0.0879644333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +5m 3m-s",7.225,5,3.229864,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +5m 3m-s",-2.0196875,5,-0.9028811,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +5m 3m-s",-2.07296875,5,-0.92669995,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +5m 3m-s",5.43171875,5,2.42819555,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +5m 3m-s",-0.714375,5,-0.3193542,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +5m 3m-s",1.985625,5,0.8876538,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +5m 3m-s",6.89463541666667,5,3.08217781666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +5m 3m-s",-0.7565625,5,-0.3382137,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +5m 3m-s",0.27125,5,0.1212596,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +5m 3m-s",7.06645833333333,5,3.15898953333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +5m 3m-s",-2.74921875,5,-1.22901075,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +5m 3m-s",-1.63901041666667,5,-0.732703216666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +5m 3m-s",5.55161458333333,5,2.48179378333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +5m 3m-s",-0.901145833333333,5,-0.402848233333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +5m 3m-s",-1.28807291666667,5,-0.575820116666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +5m 3m-s",5.13640625,5,2.29617905,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +5m 3m-s",-0.02015625,5,-0.00901065,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +5m 3m-s",0.0153645833333333,5,0.00686858333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +5m 3m-s",5.75296875,5,2.57180715,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +5m 3m-s",-2.30682291666667,5,-1.03124211666667,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +5m 3m-s",1.130625,5,0.5054346,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +5m 3m-s",3.38729166666667,5,1.51425486666667,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +5m 3m-s",-0.42515625,5,-0.19006185,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +5m 4.5m-s",5.32765625,5,2.38167545,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +5m 4.5m-s",10.2386979166667,5,4.57710751666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +5m 4.5m-s",-2.16432291666667,5,-0.967538916666667,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +5m 4.5m-s",0.0845833333333333,5,0.0378121333333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +5m 4.5m-s",9.85864583333333,5,4.40720903333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +5m 4.5m-s",-3.68364583333333,5,-1.64673703333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +5m 4.5m-s",-2.57458333333333,5,-1.15094173333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +5m 4.5m-s",3.03875,5,1.3584428,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +5m 4.5m-s",1.20546875,5,0.53889275,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +5m 4.5m-s",-2.10770833333333,5,-0.942229933333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +5m 4.5m-s",12.0675520833333,5,5.39467848333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +5m 4.5m-s",-1.74130208333333,5,-0.778431683333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +5m 4.5m-s",0.532395833333333,5,0.238002233333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +5m 4.5m-s",10.9080729166667,5,4.87634491666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +5m 4.5m-s",-3.79890625,5,-1.69826305,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +5m 4.5m-s",1.52546875,5,0.68194555,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +5m 4.5m-s",8.86151041666667,5,3.96144961666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +5m 4.5m-s",-0.833385416666667,5,-0.372556616666667,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +5m 4.5m-s",-1.41828125,5,-0.63402845,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +5m 4.5m-s",9.76505208333333,5,4.36536888333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +5m 4.5m-s",-0.527552083333333,5,-0.235836883333333,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +5m 4.5m-s",0.29234375,5,0.13068935,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +5m 4.5m-s",11.0055729166667,5,4.91993131666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +5m 4.5m-s",-2.32963541666667,5,-1.04144021666667,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +5m 4.5m-s",0.796510416666667,5,0.356072016666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +5m 4.5m-s",8.48364583333333,5,3.79252903333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +5m 4.5m-s",-0.713645833333333,5,-0.319028233333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +6m 1.5m-s",1.60666666666667,6,0.718244266666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +6m 1.5m-s",2.66619791666667,6,1.19189711666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +6m 1.5m-s",0.39921875,6,0.17846675,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +6m 1.5m-s",-0.325989583333333,6,-0.145730383333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +6m 1.5m-s",1.65088541666667,6,0.738011816666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +6m 1.5m-s",-0.952552083333333,6,-0.425828883333333,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +6m 1.5m-s",-1.49760416666667,6,-0.669488966666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +6m 1.5m-s",3.89458333333333,6,1.74103453333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +6m 1.5m-s",0.782604166666667,6,0.349855366666667,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +6m 1.5m-s",0.458958333333333,6,0.205172733333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +6m 1.5m-s",0.972708333333333,6,0.434839533333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +6m 1.5m-s",0.561354166666667,6,0.250947766666667,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +6m 1.5m-s",-0.277760416666667,6,-0.124170016666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +6m 1.5m-s",1.30291666666667,6,0.582455866666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +6m 1.5m-s",-1.73890625,6,-0.77736065,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +6m 1.5m-s",-0.877395833333333,6,-0.392231033333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +6m 1.5m-s",1.13447916666667,6,0.507157566666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +6m 1.5m-s",0.964010416666667,6,0.430951216666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +6m 1.5m-s",-1.82380208333333,6,-0.815312483333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +6m 1.5m-s",1.87072916666667,6,0.836290766666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +6m 1.5m-s",0.0830208333333333,6,0.0371136333333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +6m 1.5m-s",-0.502604166666667,6,-0.224684166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +6m 1.5m-s",1.38354166666667,6,0.618498466666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +6m 1.5m-s",-2.29114583333333,6,-1.02423383333333,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +6m 1.5m-s",1.1940625,6,0.5337937,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +6m 1.5m-s",3.04671875,6,1.36200515,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +6m 1.5m-s",0.381875,6,0.1707134,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +6m 3m-s",1.87859375,6,0.83980655,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +6m 3m-s",7.67932291666667,6,3.43296451666667,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +6m 3m-s",-1.033125,6,-0.4618482,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +6m 3m-s",-0.555625,6,-0.2483866,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +6m 3m-s",7.15338541666667,6,3.19784941666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +6m 3m-s",-1.56010416666667,6,-0.697428966666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +6m 3m-s",-2.56046875,6,-1.14463195,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +6m 3m-s",5.90333333333333,6,2.63902613333333,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +6m 3m-s",-0.386875,6,-0.1729486,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +6m 3m-s",1.86145833333333,6,0.832146333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +6m 3m-s",6.62958333333333,6,2.96368893333333,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +6m 3m-s",-0.126302083333333,6,-0.0564620833333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +6m 3m-s",-0.114270833333333,6,-0.0510836333333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +6m 3m-s",6.07145833333333,6,2.71418473333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +6m 3m-s",-2.67390625,6,-1.19534305,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +6m 3m-s",-2.05109375,6,-0.91692095,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +6m 3m-s",5.48208333333333,6,2.45071053333333,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +6m 3m-s",0.156822916666667,6,0.0701061166666667,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +6m 3m-s",-2.510625,6,-1.1223498,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +6m 3m-s",6.218125,6,2.7797506,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +6m 3m-s",0.630572916666667,6,0.281891316666667,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +6m 3m-s",-0.0338020833333333,6,-0.0151108833333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +6m 3m-s",4.92911458333333,6,2.20351138333333,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +6m 3m-s",-2.98572916666667,6,-1.33474036666667,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +6m 3m-s",1.55020833333333,6,0.693005133333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +6m 3m-s",3.6215625,6,1.6189833,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +6m 3m-s",0.431979166666667,6,0.193111966666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +6m 4.5m-s",4.58114583333333,6,2.04795543333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +6m 4.5m-s",10.2630729166667,6,4.58800411666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +6m 4.5m-s",-2.2984375,6,-1.0274935,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +6m 4.5m-s",0.00677083333333333,6,0.00302683333333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +6m 4.5m-s",10.5054166666667,6,4.69634146666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +6m 4.5m-s",-2.94541666666667,6,-1.31671906666667,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +6m 4.5m-s",-2.51427083333333,6,-1.12397963333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +6m 4.5m-s",6.264375,6,2.8004262,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +6m 4.5m-s",-0.491979166666667,6,-0.219934366666667,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +6m 4.5m-s",-1.61729166666667,6,-0.722994066666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +6m 4.5m-s",12.2063020833333,6,5.45670528333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +6m 4.5m-s",-2.10234375,6,-0.93983175,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +6m 4.5m-s",0.253541666666667,6,0.113343266666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +6m 4.5m-s",11.4509375,6,5.1190271,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +6m 4.5m-s",-3.59442708333333,6,-1.60685268333333,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +6m 4.5m-s",0.535260416666667,6,0.239282816666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +6m 4.5m-s",8.95161458333333,6,4.00172978333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +6m 4.5m-s",-0.955208333333333,6,-0.427016333333333,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +6m 4.5m-s",-2.52994791666667,6,-1.13098791666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +6m 4.5m-s",10.7158333333333,6,4.79040613333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +6m 4.5m-s",0.42,6,0.1877568,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +6m 4.5m-s",0.216666666666667,6,0.0968586666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +6m 4.5m-s",11.1919791666667,6,5.00326236666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +6m 4.5m-s",-1.979375,6,-0.8848598,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +6m 4.5m-s",1.30953125,6,0.58541285,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +6m 4.5m-s",8.48869791666667,6,3.79478751666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +6m 4.5m-s",0.899166666666667,6,0.401963466666667,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +8m 1.5m-s",1.03916666666667,8,0.464549066666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +8m 1.5m-s",2.68302083333333,8,1.19941763333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +8m 1.5m-s",0.09421875,8,0.04211955,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +8m 1.5m-s",-0.113125,8,-0.0505714,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +8m 1.5m-s",2.16640625,8,0.96847025,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +8m 1.5m-s",-0.753541666666667,8,-0.336863266666667,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +8m 1.5m-s",-1.26598958333333,8,-0.565947983333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +8m 1.5m-s",3.19692708333333,8,1.42915428333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +8m 1.5m-s",0.307604166666667,8,0.137511366666667,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +8m 1.5m-s",0.171979166666667,8,0.0768815666666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +8m 1.5m-s",2.13578125,8,0.95477965,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +8m 1.5m-s",0.37046875,8,0.16561435,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +8m 1.5m-s",-0.0361458333333333,8,-0.0161586333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +8m 1.5m-s",2.21760416666667,8,0.991357766666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +8m 1.5m-s",-2.2153125,8,-0.9903333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +8m 1.5m-s",-0.598072916666667,8,-0.267362516666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +8m 1.5m-s",2.01234375,8,0.89959815,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +8m 1.5m-s",0.601145833333333,8,0.268736233333333,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +8m 1.5m-s",-1.2725,8,-0.5688584,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +8m 1.5m-s",2.186875,8,0.9776206,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +8m 1.5m-s",-0.141614583333333,8,-0.0633073833333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +8m 1.5m-s",0.0865104166666667,8,0.0386736166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +8m 1.5m-s",2.94130208333333,8,1.31487968333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +8m 1.5m-s",-1.58395833333333,8,-0.708092733333333,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +8m 1.5m-s",1.16442708333333,8,0.520545483333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +8m 1.5m-s",2.86322916666667,8,1.27997796666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +8m 1.5m-s",0.358645833333333,8,0.160329033333333,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +8m 3m-s",2.29255208333333,8,1.02486248333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +8m 3m-s",7.32875,8,3.2762444,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +8m 3m-s",0.10078125,8,0.04505325,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +8m 3m-s",0.16265625,8,0.07271385,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +8m 3m-s",5.528125,8,2.471293,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +8m 3m-s",-1.72520833333333,8,-0.771237133333333,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +8m 3m-s",-2.25630208333333,8,-1.00865728333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +8m 3m-s",5.96197916666667,8,2.66524316666667,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +8m 3m-s",0.0161458333333333,8,0.00721783333333333,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +8m 3m-s",1.65510416666667,8,0.739897766666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +8m 3m-s",6.10901041666667,8,2.73097201666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +8m 3m-s",1.53713541666667,8,0.687161016666667,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +8m 3m-s",-0.02609375,8,-0.01166495,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +8m 3m-s",5.149375,8,2.3019766,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +8m 3m-s",-3.53239583333333,8,-1.57912223333333,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +8m 3m-s",-1.55088541666667,8,-0.693307816666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +8m 3m-s",4.52625,8,2.0234148,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +8m 3m-s",0.960520833333333,8,0.429391233333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +8m 3m-s",-2.4821875,8,-1.1096371,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +8m 3m-s",6.18390625,8,2.76445345,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +8m 3m-s",0.57796875,8,0.25837515,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +8m 3m-s",0.282083333333333,8,0.126102533333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +8m 3m-s",5.425,8,2.425192,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +8m 3m-s",-3.54411458333333,8,-1.58436098333333,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +8m 3m-s",1.871875,8,0.836803,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +8m 3m-s",4.85005208333333,8,2.16816728333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +8m 3m-s",0.642135416666667,8,0.287060216666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +8m 4.5m-s",3.61484375,8,1.61597975,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +8m 4.5m-s",10.8643229166667,8,4.85678691666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +8m 4.5m-s",-1.46927083333333,8,-0.656822833333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +8m 4.5m-s",-0.0347916666666667,8,-0.0155532666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +8m 4.5m-s",10.8356770833333,8,4.84398108333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +8m 4.5m-s",-2.53916666666667,8,-1.13510906666667,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +8m 4.5m-s",-3.42328125,8,-1.53034365,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +8m 4.5m-s",8.18020833333333,8,3.65688033333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +8m 4.5m-s",-1.00885416666667,8,-0.450998166666667,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +8m 4.5m-s",0.649947916666667,8,0.290552716666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +8m 4.5m-s",11.2202604166667,8,5.01590521666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +8m 4.5m-s",-2.00401041666667,8,-0.895872816666667,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +8m 4.5m-s",0.0040625,8,0.0018161,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +8m 4.5m-s",9.66177083333333,8,4.31919803333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +8m 4.5m-s",-3.89265625,8,-1.74017305,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +8m 4.5m-s",-0.758020833333333,8,-0.338865633333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +8m 4.5m-s",8.28229166666667,8,3.70251566666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +8m 4.5m-s",-0.63671875,8,-0.28463875,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +8m 4.5m-s",-4.59427083333333,8,-2.05382283333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +8m 4.5m-s",12.0369791666667,8,5.38101116666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +8m 4.5m-s",-0.287447916666667,8,-0.128500716666667,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +8m 4.5m-s",0.3303125,8,0.1476629,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +8m 4.5m-s",8.6471875,8,3.8656387,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +8m 4.5m-s",-3.9740625,8,-1.7765649,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +8m 4.5m-s",3.02223958333333,8,1.35106198333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +8m 4.5m-s",9.55171875,8,4.27000035,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +8m 4.5m-s",0.0894270833333333,8,0.0399774833333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +12m 1.5m-s",0.45453125,12,0.20319365,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +12m 1.5m-s",2.71640625,12,1.21434225,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +12m 1.5m-s",0.000885416666666666,12,0.000395816666666666,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +12m 1.5m-s",0.0519791666666667,12,0.0232367666666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +12m 1.5m-s",2.96286458333333,12,1.32451898333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +12m 1.5m-s",-1.27036458333333,12,-0.567903783333333,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +12m 1.5m-s",-0.997447916666667,12,-0.445899116666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +12m 1.5m-s",2.66828125,12,1.19282845,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +12m 1.5m-s",0.43765625,12,0.19564985,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +12m 1.5m-s",-0.0214583333333333,12,-0.00959273333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +12m 1.5m-s",2.68536458333333,12,1.20046538333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +12m 1.5m-s",-0.1146875,12,-0.0512699,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +12m 1.5m-s",0.192760416666667,12,0.0861716166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +12m 1.5m-s",3.3146875,12,1.4817979,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +12m 1.5m-s",-2.04890625,12,-0.91594305,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +12m 1.5m-s",0.325885416666667,12,0.145683816666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +12m 1.5m-s",2.58984375,12,1.15776375,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +12m 1.5m-s",0.473385416666667,12,0.211622216666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +12m 1.5m-s",-0.71453125,12,-0.31942405,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +12m 1.5m-s",2.99135416666667,12,1.33725496666667,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +12m 1.5m-s",-0.222395833333333,12,-0.0994198333333333,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +12m 1.5m-s",0.0914583333333333,12,0.0408855333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +12m 1.5m-s",3.47911458333333,12,1.55530338333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +12m 1.5m-s",-0.95546875,12,-0.42713275,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +12m 1.5m-s",1.45125,12,0.6487668,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +12m 1.5m-s",3.89708333333333,12,1.74215213333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +12m 1.5m-s",0.36921875,12,0.16505555,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +12m 3m-s",2.069375,12,0.9250934,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +12m 3m-s",6.29109375,12,2.81237055,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +12m 3m-s",0.884635416666667,12,0.395467416666667,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +12m 3m-s",-0.1196875,12,-0.0535051,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +12m 3m-s",6.41494791666667,12,2.86773831666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +12m 3m-s",-2.39338541666667,12,-1.06993901666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +12m 3m-s",-2.78203125,12,-1.24367925,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +12m 3m-s",5.54552083333333,12,2.47906963333333,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +12m 3m-s",0.21296875,12,0.09520555,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +12m 3m-s",-0.218802083333333,12,-0.0978132833333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +12m 3m-s",5.51526041666667,12,2.46554201666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +12m 3m-s",1.25692708333333,12,0.561896683333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +12m 3m-s",0.3809375,12,0.1702943,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +12m 3m-s",6.39473958333333,12,2.85870438333333,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +12m 3m-s",-3.41463541666667,12,-1.52647861666667,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +12m 3m-s",0.0911979166666667,12,0.0407691166666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +12m 3m-s",4.79390625,12,2.14306785,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +12m 3m-s",0.754583333333333,12,0.337328933333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +12m 3m-s",-2.3221875,12,-1.0381107,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +12m 3m-s",6.24213541666667,12,2.79048421666667,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +12m 3m-s",0.388020833333333,12,0.173460833333333,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +12m 3m-s",0.0975520833333333,12,0.0436096833333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +12m 3m-s",7.02447916666667,12,3.14022316666667,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +12m 3m-s",-2.36666666666667,12,-1.05799466666667,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +12m 3m-s",2.13453125,12,0.95422085,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +12m 3m-s",6.10442708333333,12,2.72892308333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +12m 3m-s",0.212135416666667,12,0.0948330166666667,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +12m 4.5m-s",3.39989583333333,12,1.51988943333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +12m 4.5m-s",10.2672916666667,12,4.58989006666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +12m 4.5m-s",0.863645833333333,12,0.386084233333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +12m 4.5m-s",-0.0829166666666667,12,-0.0370670666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +12m 4.5m-s",10.251875,12,4.5829982,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +12m 4.5m-s",-3.53348958333333,12,-1.57961118333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +12m 4.5m-s",-3.70765625,12,-1.65747065,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +12m 4.5m-s",8.73046875,12,3.90286875,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +12m 4.5m-s",0.785833333333333,12,0.351298933333333,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +12m 4.5m-s",1.12973958333333,12,0.505038783333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +12m 4.5m-s",10.99578125,12,4.91555405,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +12m 4.5m-s",0.732708333333333,12,0.327549933333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +12m 4.5m-s",0.0588541666666667,12,0.0263101666666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +12m 4.5m-s",11.0674479166667,12,4.94759191666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +12m 4.5m-s",-4.93213541666667,12,-2.20486181666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +12m 4.5m-s",-0.770572916666667,12,-0.344476916666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +12m 4.5m-s",8.91098958333333,12,3.98356878333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +12m 4.5m-s",1.41276041666667,12,0.631560416666667,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +12m 4.5m-s",-4.23171875,12,-1.89174755,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +12m 4.5m-s",9.72515625,12,4.34753385,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +12m 4.5m-s",-0.445729166666667,12,-0.199258766666667,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +12m 4.5m-s",0.149427083333333,12,0.0667998833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +12m 4.5m-s",11.1955208333333,12,5.00484563333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +12m 4.5m-s",-3.55140625,12,-1.58762065,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +12m 4.5m-s",3.16458333333333,12,1.41469533333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +12m 4.5m-s",8.13333333333333,12,3.63592533333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +12m 4.5m-s",-0.142083333333333,12,-0.0635169333333333,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +16m 1.5m-s",0.5846875,16,0.2613787,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +16m 1.5m-s",3.2790625,16,1.4658721,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +16m 1.5m-s",-0.204583333333333,16,-0.0914569333333333,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +16m 1.5m-s",-0.618177083333333,16,-0.276349883333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +16m 1.5m-s",3.70328125,16,1.65551485,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +16m 1.5m-s",-0.79171875,16,-0.35392995,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +16m 1.5m-s",-0.845052083333333,16,-0.377772083333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +16m 1.5m-s",3.1928125,16,1.4273149,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +16m 1.5m-s",0.246822916666667,16,0.110339716666667,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +16m 1.5m-s",0.0100520833333333,16,0.00449368333333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +16m 1.5m-s",2.95567708333333,16,1.32130588333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +16m 1.5m-s",-0.337552083333333,16,-0.150899283333333,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +16m 1.5m-s",0.244635416666667,16,0.109361816666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +16m 1.5m-s",3.929375,16,1.7565878,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +16m 1.5m-s",-1.08140625,16,-0.48343185,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +16m 1.5m-s",0.20453125,16,0.09143365,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +16m 1.5m-s",3.37270833333333,16,1.50773553333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +16m 1.5m-s",0.334947916666667,16,0.149735116666667,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +16m 1.5m-s",-0.618125,16,-0.2763266,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +16m 1.5m-s",3.625625,16,1.6207994,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +16m 1.5m-s",-0.22765625,16,-0.10177145,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +16m 1.5m-s",0.843697916666667,16,0.377166716666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +16m 1.5m-s",4.24375,16,1.897126,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +16m 1.5m-s",-0.704375,16,-0.3148838,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +16m 1.5m-s",0.92109375,16,0.41176575,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +16m 1.5m-s",4.196875,16,1.876171,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +16m 1.5m-s",0.249479166666667,16,0.111527166666667,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +16m 3m-s",1.91791666666667,16,0.857385466666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +16m 3m-s",5.81677083333333,16,2.60032923333333,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +16m 3m-s",0.7446875,16,0.3329051,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +16m 3m-s",-0.1340625,16,-0.0599313,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +16m 3m-s",6.76744791666667,16,3.02531991666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +16m 3m-s",-2.14416666666667,16,-0.958528266666667,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +16m 3m-s",-2.3409375,16,-1.0464927,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +16m 3m-s",5.66177083333333,16,2.53103803333333,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +16m 3m-s",0.430416666666667,16,0.192413466666667,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +16m 3m-s",-1.19432291666667,16,-0.533910116666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +16m 3m-s",6.10885416666667,16,2.73090216666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +16m 3m-s",0.881197916666667,16,0.393930716666667,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +16m 3m-s",-0.0871875,16,-0.0389763,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +16m 3m-s",7.1159375,16,3.1811087,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +16m 3m-s",-2.63125,16,-1.176274,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +16m 3m-s",0.492239583333333,16,0.220050783333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +16m 3m-s",5.39838541666667,16,2.41329421666667,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +16m 3m-s",0.422552083333333,16,0.188897683333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +16m 3m-s",-2.10817708333333,16,-0.942439483333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +16m 3m-s",7.57770833333333,16,3.38753873333333,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +16m 3m-s",0.240989583333333,16,0.107731983333333,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +16m 3m-s",0.2196875,16,0.0982091,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +16m 3m-s",7.31723958333333,16,3.27109878333333,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +16m 3m-s",-1.83223958333333,16,-0.819084383333333,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +16m 3m-s",1.61244791666667,16,0.720828716666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +16m 3m-s",6.96552083333333,16,3.11386643333333,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +16m 3m-s",0.40453125,16,0.18084165,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +16m 4.5m-s",3.30307291666667,16,1.47660571666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +16m 4.5m-s",10.3455208333333,16,4.62486163333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +16m 4.5m-s",0.424739583333333,16,0.189875583333333,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +16m 4.5m-s",-0.30921875,16,-0.13823315,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +16m 4.5m-s",11.0147395833333,16,4.92402918333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +16m 4.5m-s",-2.9825,16,-1.3332968,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +16m 4.5m-s",-3.34796875,16,-1.49667595,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +16m 4.5m-s",9.40291666666667,16,4.20347986666667,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +16m 4.5m-s",0.0109895833333333,16,0.00491278333333333,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +16m 4.5m-s",-1.35020833333333,16,-0.603597133333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +16m 4.5m-s",10.7306770833333,16,4.79704188333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +16m 4.5m-s",1.6428125,16,0.7344029,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +16m 4.5m-s",0.445416666666667,16,0.199119066666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +16m 4.5m-s",10.3881770833333,16,4.64393068333333,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +16m 4.5m-s",-3.93854166666667,16,-1.76068566666667,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +16m 4.5m-s",-0.0956770833333333,16,-0.0427714833333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +16m 4.5m-s",8.5634375,16,3.8281991,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +16m 4.5m-s",0.315625,16,0.141097,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +16m 4.5m-s",-3.86791666666667,16,-1.72911346666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +16m 4.5m-s",10.7252604166667,16,4.79462041666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +16m 4.5m-s",0.756875,16,0.3383534,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +16m 4.5m-s",0.265729166666667,16,0.118791566666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +16m 4.5m-s",10.7877083333333,16,4.82253713333333,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +16m 4.5m-s",-2.67713541666667,16,-1.19678661666667,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +16m 4.5m-s",2.97416666666667,16,1.32957146666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +16m 4.5m-s",9.42510416666667,16,4.21339856666667,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +16m 4.5m-s",0.104375,16,0.0466598,4.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +20m 1.5m-s",0.21578125,20,0.09646285,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +20m 1.5m-s",3.39484375,20,1.51763095,1.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +20m 1.5m-s",-0.161302083333333,20,-0.0721084833333333,1.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +20m 1.5m-s",-0.164166666666667,20,-0.0733890666666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +20m 1.5m-s",3.58302083333333,20,1.60175363333333,1.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +20m 1.5m-s",-0.46484375,20,-0.20780375,1.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +20m 1.5m-s",-0.66015625,20,-0.29511625,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +20m 1.5m-s",3.21166666666667,20,1.43574346666667,1.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +20m 1.5m-s",-0.00109375,20,-0.00048895,1.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +20m 1.5m-s",0.136822916666667,20,0.0611653166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +20m 1.5m-s",3.23817708333333,20,1.44759468333333,1.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +20m 1.5m-s",-0.250052083333333,20,-0.111783283333333,1.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +20m 1.5m-s",0.0828125,20,0.0370205,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +20m 1.5m-s",3.98765625,20,1.78264185,1.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +20m 1.5m-s",-0.817083333333333,20,-0.365268933333333,1.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +20m 1.5m-s",0.139947916666667,20,0.0625623166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +20m 1.5m-s",3.31057291666667,20,1.47995851666667,1.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +20m 1.5m-s",-0.09359375,20,-0.04184015,1.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +20m 1.5m-s",-0.222760416666667,20,-0.0995828166666667,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +20m 1.5m-s",3.27317708333333,20,1.46324108333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +20m 1.5m-s",-0.221354166666667,20,-0.0989541666666666,1.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +20m 1.5m-s",0.340625,20,0.152273,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +20m 1.5m-s",4.2703125,20,1.9090005,1.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +20m 1.5m-s",-0.50484375,20,-0.22568535,1.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +20m 1.5m-s",0.636302083333333,20,0.284452483333333,1.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +20m 1.5m-s",3.73598958333333,20,1.67013678333333,1.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +20m 1.5m-s",-0.0715625,20,-0.0319913,1.5,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +20m 3m-s",1.62442708333333,20,0.726183883333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +20m 3m-s",6.10338541666667,20,2.72845741666667,3,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +20m 3m-s",-0.3509375,20,-0.1568831,3,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +20m 3m-s",0.12375,20,0.0553212,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +20m 3m-s",7.08619791666667,20,3.16781391666667,3,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +20m 3m-s",-1.84895833333333,20,-0.826558333333333,3,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +20m 3m-s",-2.28770833333333,20,-1.02269713333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +20m 3m-s",6.15901041666667,20,2.75332401666667,3,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +20m 3m-s",-0.305677083333333,20,-0.136649883333333,3,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +20m 3m-s",-1.27125,20,-0.5682996,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +20m 3m-s",6.35557291666667,20,2.84119531666667,3,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +20m 3m-s",-0.255520833333333,20,-0.114228033333333,3,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +20m 3m-s",0.244322916666667,20,0.109222116666667,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +20m 3m-s",7.41354166666667,20,3.31414966666667,3,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +20m 3m-s",-2.26567708333333,20,-1.01284828333333,3,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +20m 3m-s",0.66984375,20,0.29944695,3,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +20m 3m-s",5.5834375,20,2.4960199,3,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +20m 3m-s",-0.667083333333333,20,-0.298212933333333,3,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +20m 3m-s",-2.20583333333333,20,-0.986095733333333,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +20m 3m-s",7.00796875,20,3.13284235,3,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +20m 3m-s",-0.2025,20,-0.0905256,3,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +20m 3m-s",0.2490625,20,0.1113409,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +20m 3m-s",7.27489583333333,20,3.25216943333333,3,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +20m 3m-s",-1.48776041666667,20,-0.665088416666667,3,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +20m 3m-s",2.03776041666667,20,0.910960416666666,3,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +20m 3m-s",6.55541666666667,20,2.93053346666667,3,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +20m 3m-s",-0.5496875,20,-0.2457323,3,"Vertical (Z)"
+"BottomLeft","X","0.6096","Height = 0.6m","0.99","Raw +20m 4.5m-s",3.4915625,20,1.5608681,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomLeft","Y","0.6096","Height = 0.6m","0.99","Raw +20m 4.5m-s",10.3334375,20,4.6194599,4.5,"Parallel to 
+wind flow(Y)"
+"BottomLeft","Z","0.6096","Height = 0.6m","0.99","Raw +20m 4.5m-s",0.595625,20,0.2662682,4.5,"Vertical (Z)"
+"BottomCenter","X","0.6096","Height = 0.6m","2.1","Raw +20m 4.5m-s",0.379635416666667,20,0.169712216666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomCenter","Y","0.6096","Height = 0.6m","2.1","Raw +20m 4.5m-s",9.9746875,20,4.4590843,4.5,"Parallel to 
+wind flow(Y)"
+"BottomCenter","Z","0.6096","Height = 0.6m","2.1","Raw +20m 4.5m-s",-2.62817708333333,20,-1.17490028333333,4.5,"Vertical (Z)"
+"BottomRight","X","0.6096","Height = 0.6m","3.3","Raw +20m 4.5m-s",-3.5434375,20,-1.5840583,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"BottomRight","Y","0.6096","Height = 0.6m","3.3","Raw +20m 4.5m-s",9.11473958333333,20,4.07465318333333,4.5,"Parallel to 
+wind flow(Y)"
+"BottomRight","Z","0.6096","Height = 0.6m","3.3","Raw +20m 4.5m-s",0.0178125,20,0.0079629,4.5,"Vertical (Z)"
+"MidLeft","X","1.2192","Height = 1.2m","0.99","Raw +20m 4.5m-s",-1.24973958333333,20,-0.558683583333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidLeft","Y","1.2192","Height = 1.2m","0.99","Raw +20m 4.5m-s",10.5980729166667,20,4.73776251666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidLeft","Z","1.2192","Height = 1.2m","0.99","Raw +20m 4.5m-s",0.317708333333333,20,0.142028333333333,4.5,"Vertical (Z)"
+"MidCenter","X","1.2192","Height = 1.2m","2.1","Raw +20m 4.5m-s",0.0192708333333333,20,0.00861483333333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidCenter","Y","1.2192","Height = 1.2m","2.1","Raw +20m 4.5m-s",10.3027604166667,20,4.60574601666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidCenter","Z","1.2192","Height = 1.2m","2.1","Raw +20m 4.5m-s",-3.42921875,20,-1.53299795,4.5,"Vertical (Z)"
+"MidRight","X","1.2192","Height = 1.2m","3.3","Raw +20m 4.5m-s",0.40328125,20,0.18028285,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"MidRight","Y","1.2192","Height = 1.2m","3.3","Raw +20m 4.5m-s",8.83119791666667,20,3.94789871666667,4.5,"Parallel to 
+wind flow(Y)"
+"MidRight","Z","1.2192","Height = 1.2m","3.3","Raw +20m 4.5m-s",-0.00203125,20,-0.000908049999999999,4.5,"Vertical (Z)"
+"TopLeft","X","1.8288","Height = 1.8m","0.99","Raw +20m 4.5m-s",-3.68276041666667,20,-1.64634121666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopLeft","Y","1.8288","Height = 1.8m","0.99","Raw +20m 4.5m-s",11.01296875,20,4.92323755,4.5,"Parallel to 
+wind flow(Y)"
+"TopLeft","Z","1.8288","Height = 1.8m","0.99","Raw +20m 4.5m-s",-0.0647916666666667,20,-0.0289644666666667,4.5,"Vertical (Z)"
+"TopCenter","X","1.8288","Height = 1.8m","2.1","Raw +20m 4.5m-s",-0.190520833333333,20,-0.0851704333333333,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopCenter","Y","1.8288","Height = 1.8m","2.1","Raw +20m 4.5m-s",10.17171875,20,4.54716515,4.5,"Parallel to 
+wind flow(Y)"
+"TopCenter","Z","1.8288","Height = 1.8m","2.1","Raw +20m 4.5m-s",-2.30671875,20,-1.03119555,4.5,"Vertical (Z)"
+"TopRight","X","1.8288","Height = 1.8m","3.3","Raw +20m 4.5m-s",2.78572916666667,20,1.24533236666667,4.5,"Perpendicular to 
+wind flow (across) (X)"
+"TopRight","Y","1.8288","Height = 1.8m","3.3","Raw +20m 4.5m-s",9.7084375,20,4.3400599,4.5,"Parallel to 
+wind flow(Y)"
+"TopRight","Z","1.8288","Height = 1.8m","3.3","Raw +20m 4.5m-s",-0.863958333333333,20,-0.386223933333333,4.5,"Vertical (Z)"
