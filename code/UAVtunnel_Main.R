@@ -17,9 +17,51 @@
   library(gridExtra)
   library(car)
 
+  #Function to format axis labels
+  axisFormat<-function(x){
+    fList<-c()
+    
+    for(val in x){
+      fVal=""
+      if(is.na(val)){
+        fVal=val
+      }else{
+        if(val>=10000){
+          fVal=format(val, big.mark=",", big.interval=3L,scientific=FALSE)
+        }else{
+          fVal=val
+        }
+      }
+      fList<-append(fList,fVal)
+    }
+    return(fList)
+  }
+  
+  # change hyphen to minus sign for labels
+  axisMinus<-function(x){
+    fList<-c()
+    
+    for(val in x){
+      fVal=""
+      
+      if(is.na(val)){
+        fVal=val
+      }else{
+        if(val<0){
+          fVal=gsub("-", "\U2212", val )
+        }else{
+          fVal=val
+        }
+      }
+      fList<-append(fList,fVal)
+    }
+    return(fList)
+    
+  }
+
   #Change these locations to yours:
-    infolder<- "C:/YourFolder/inputs"
-    outfolder<- "C:/YourFolder/outputs"
+    infolder<- "YOUR FILE PATH"
+    outfolder<- "YOUR FILE PATH"
   
   #Import, column names
     setwd(infolder)
@@ -128,6 +170,7 @@
            aes(x=distance, y=velocity_ms, color=height2, linetype=as.factor(volume))) +theme_bw() +
       facet_grid(vel_dir~width2) + geom_hline(yintercept = 0, color="gray80", size=1)+
       geom_vline(xintercept = 0, color="gray80", size=1) + geom_line() +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       ylab("Velocity (m/s)") +xlab("Distance (m)") + ggtitle("Wind speed (m/s): 1.5") +
       scale_color_manual("Height", values=c("black","dodgerblue","chocolate3"))+
       scale_linetype_discrete("Payload (L)") + theme(legend.position = "bottom", text=element_text(size=10))
@@ -135,6 +178,7 @@
            aes(x=distance, y=velocity_ms, color=height2, linetype=as.factor(volume))) +
       facet_grid(vel_dir~width2) + geom_hline(yintercept = 0, color="gray80", size=1)+
       geom_vline(xintercept = 0, color="gray80", size=1) + geom_line() +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       theme_bw()  + ylab("Velocity (m/s)") + xlab("Distance (m)") +  ggtitle("Wind speed (m/s): 3.0") +
       scale_color_manual("Height", values=c("black","dodgerblue","chocolate3"))+
       scale_linetype_discrete("Payload (L)") + theme(legend.position = "bottom", text=element_text(size=10))
@@ -142,13 +186,14 @@
            aes(x=distance, y=velocity_ms, color=height2, linetype=as.factor(volume))) +
       facet_grid(vel_dir~width2) + geom_hline(yintercept = 0, color="gray80", size=1)+
       geom_vline(xintercept = 0, color="gray80", size=1) + geom_line() +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       theme_bw()  + ylab("Velocity (m/s)") + xlab("Distance (m)") +  ggtitle("Wind speed (m/s): 4.5") +
       scale_color_manual("Height", values=c("black","dodgerblue","chocolate3"))+
       scale_linetype_discrete("Payload (L)") + theme(legend.position = "bottom", text=element_text(size=10))
     setwd(outfolder)
-    ggsave(g.3dcurve.15, file="g.3dcurve.15.jpg", width=6.5, height=7)
-    ggsave(g.3dcurve.30, file="g.3dcurve.30.jpg", width=6.5, height=7)
-    ggsave(g.3dcurve.45, file="g.3dcurve.45.jpg", width=6.5, height=7)
+    ggsave(g.3dcurve.15, file="g.3dcurve.15_RAug10.jpg", width=6.5, height=7)
+    ggsave(g.3dcurve.30, file="g.3dcurve.30_RAug10.jpg", width=6.5, height=7)
+    ggsave(g.3dcurve.45, file="g.3dcurve.45_RAug10.jpg", width=6.5, height=7)
     
 
   #Fig A3.  Centering figure _________________________________________
@@ -156,6 +201,7 @@
     p1.before<- ggplot(subset(ane, lab=="ZBC" & distance>1.1 ), 
                        aes(x=distance, y=velocity_ms, color=as.factor(ws), linetype=as.factor(volume))) + 
       geom_line() + ylab("Velocity:\nZ, bottom, center (m/s)") + xlab("Distance (m)") +theme_bw()+
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       scale_color_manual("Tunnel wind speed (m/s)", values = c('cyan2','cornflowerblue','navyblue')) +
       scale_linetype_manual("Payload (L)", values=c(1,2)) +
       theme(legend.position = c(.58,.18), legend.direction="horizontal",
@@ -164,6 +210,7 @@
       ggtitle("A. Before centering, as-is") 
     p2.before<- ggplot(subset(ane, lab=="ZBC" & distance>1.1),aes(x=ws, y=velocity_ms)) + 
       geom_point(aes(color=factor(ws), shape=as.factor(volume))) + theme_bw() + ggtitle("") +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       geom_smooth(method="lm", color="gray50", size=.5) +
       scale_shape_manual ("Payload (L)", values=c(1,2)) +
       scale_x_continuous("Tunnel wind speed (m/s)", breaks=c(1.5, 3, 4.5)) +
@@ -177,7 +224,7 @@
       geom_line() + ylab("Centered velocity:\nZ, bottom, center (m/s)") + xlab("Distance (m)") +theme_bw()+
       scale_color_manual("Tunnel wind speed (m/s)", values = c('cyan2','cornflowerblue','navyblue')) +
       scale_linetype_manual("Payload (L)", values=c(1,2)) + 
-      scale_y_continuous(breaks=c(0,-1)) +
+      scale_y_continuous(breaks=c(0,-1), labels=function(x) axisMinus(x)) +
       theme(legend.position = c(.58,.18), legend.direction="horizontal",
             legend.spacing = unit(.01,"cm"), text=element_text(size=9),
             legend.key.height = unit(.1,"cm"), legend.key.width = unit(.43,"cm")) +
@@ -187,7 +234,7 @@
       geom_point(aes(color=factor(ws), shape=as.factor(volume)))+theme_bw()+ggtitle("") +
       geom_smooth(method="lm", color="gray50", size=.5)+
       scale_shape_manual ("Payload (L)", values=c(1,2)) +
-      scale_y_continuous(breaks=c(0,-1)) +
+      scale_y_continuous(breaks=c(0,-1), labels=function(x) axisMinus(x)) +
       scale_x_continuous("Tunnel wind speed (m/s)", breaks=c(1.5, 3, 4.5)) +
       ylab("Centered velocity:\nZ, bottom, center (m/s)") +
       scale_color_manual("Tunnel wind speed (m/s)", values = c('cyan2','cornflowerblue','navyblue')) +
@@ -204,9 +251,9 @@
                                 heights=3, widths=unit(c(4,2.5), c("in")))
     g.cntrAfter<- grid.arrange(p1.after, p2.after, ncol=2, 
                                heights=3, widths=unit(c(4,2.5), c("in")))
-    ggsave(g.cntrBefore, file="g.cntrBefore2.jpg", width=6.5, height=2.3)
-    ggsave(g.cntrAfter, file="g.cntrAfter2.jpg", width=6.5, height=2.3)
-    ggsave(p2.legendonly, file="p2.legendonly.jpg", width=2, height=2)
+    ggsave(g.cntrBefore, file="g.cntrBefore2_RAug10.jpg", width=6.5, height=2.3)
+    ggsave(g.cntrAfter, file="g.cntrAfter2_RAug10.jpg", width=6.5, height=2.3)
+    ggsave(p2.legendonly, file="p2.legendonly_RAug10.jpg", width=2, height=2)
 
         
 
@@ -313,13 +360,14 @@
       g.ins<- ggplot(bothm, aes(x=distance, y=value, linetype=payload, color=variable, shape=variable)) + 
         geom_vline(xintercept = 0, size=.75, color="gray80")+geom_point() + geom_line() +
         facet_grid(paste(wsf, "m/s")~nozz) +theme_bw() + theme(text = element_text(size=9)) +
-        scale_y_continuous(sec.axis = sec_axis(~./1065.699, name = "Tray volume (mL)"))+
+        scale_y_continuous(sec.axis = sec_axis(~./1065.699, name = "Tray volume (mL)"), labels=function(x) axisFormat(x))+
+        scale_x_continuous(labels=function(x) axisMinus(x))+
         scale_linetype_discrete("Payload (L)") + 
         scale_color_manual("Substrate",values=c("chocolate3", "dodgerblue")) +
         scale_shape_manual ("Substrate", values=c(1,2)) +
         ylab(expression(Deposition~(ng/cm^2)~on~glass~slides)) + xlab("Distance (m)") 
       setwd(outfolder)
-      ggsave(g.ins, file="g.ins3.jpg", width=6.5, height=4.3)
+      ggsave(g.ins, file="g.ins3_RAug10.jpg", width=6.5, height=4.3)
 
   
 # Fig 6, A2, A4, A5 and Table 2 -------------------------------------------------------------
@@ -334,9 +382,9 @@
       facet_grid(lab.pay ~ nozz) + xlab("Distance (m)") +theme_bw() +
       theme(panel.grid.minor=element_blank(),legend.position = "bottom") + 
       scale_color_manual("Wind speed (m/s)", values=c("black","dodgerblue","chocolate3")) +
-      scale_y_log10() + scale_x_log10()+ annotation_logticks(sides="lb") 
+      scale_y_log10(labels=function(x) axisFormat(x)) + scale_x_log10()+ annotation_logticks(sides="lb") 
     setwd(outfolder)
-    ggsave(g.asis.meas, file="g.asis.meas.jpg", width=6.5, height=4.5)
+    ggsave(g.asis.meas, file="g.asis.meas_RAug10.jpg", width=6.5, height=4.5)
     
 
   #Fig A5.  Environmental conditions in the tunnel, by replicate ______________________
@@ -357,27 +405,30 @@
     #wind speed 
     g.tightWS<- ggplot(main1, aes(x=paste(ws, " m/s, ", volume, " L", sep=""), y=ws.rel, color=volume)) + 
       theme_bw() + geom_hline(yintercept = 0, color="gray85", size=.5) +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       geom_point() + facet_wrap(~nozz, nrow=1, scales="free_x") + 
       ylab("Relative wind speed (m/s)") +  xlab("Nominal wind speed, payload") + 
       geom_line(aes(group=paste(ws, volume))) + scale_color_manual(values=c("black","dodgerblue"))+
       theme(legend.position = "none", 
             axis.text.x = element_text(angle = 90, hjust = 1, vjust=.5))
     setwd(outfolder)
-    ggsave(g.tightT , file="g.tightT.jpg" , width=6.5, height=3.3)
-    ggsave(g.tightRH, file="g.tightRH.jpg", width=6.4, height=3.3)
-    ggsave(g.tightWS, file="g.tightWS.jpg", width=6.47, height=3.3)
+    ggsave(g.tightT , file="g.tightT_RAug10.jpg" , width=6.5, height=3.3)
+    ggsave(g.tightRH, file="g.tightRH_RAug10.jpg", width=6.4, height=3.3)
+    ggsave(g.tightWS, file="g.tightWS_RAug10.jpg", width=6.47, height=3.3)
     
 
   #Fig A2.  Environmnental conditions are related to each other ______________________________
     p1<- ggplot(main1, aes(x=temp.c, y=rh)) + geom_point() + theme_bw()  + 
       ylab("Humidity (%)") + xlab("Temperature (deg. C)") + theme(text=element_text(size=9))
     p2<- ggplot(main1, aes(x=temp.c, y=ws.rel)) + geom_point() + theme_bw()  + 
-      ylab("Relative wind speed (m/s)") + xlab("Temperature (deg. C)") + theme(text=element_text(size=9))
+      ylab("Relative wind speed (m/s)") + xlab("Temperature (deg. C)") + theme(text=element_text(size=9))+
+      scale_y_continuous(labels=function(x) axisMinus(x))
     p3<- ggplot(main1, aes(x=rh, y=ws.rel)) + geom_point() + theme_bw()  + 
-      xlab("Humidity (%)") + ylab("Relative wind speed (m/s)") + theme(text=element_text(size=9))
+      xlab("Humidity (%)") + ylab("Relative wind speed (m/s)") + theme(text=element_text(size=9))+
+      scale_y_continuous(labels=function(x) axisMinus(x))
     g.MetCorrs<- grid.arrange(p1, p2, p3, nrow=1)
     setwd(outfolder)
-    ggsave(g.MetCorrs, file="g.MetCorrs.jpg", width=6.5, height=2.1)
+    ggsave(g.MetCorrs, file="g.MetCorrs_RAug10.jpg", width=6.5, height=2.1)
     
 
   #Table 2.  Summary of conditions in tunnel ______________________________________________
@@ -396,12 +447,12 @@
     temp<- subset(main, distance>1.1)
     temp$nozz<- gsub("11001", "",temp$nozz)      
     g.outlier<- ggplot(temp, aes(x=distance, y=mass, color=as.factor(ws), shape=nozz)) + 
-      geom_point() + theme_bw() +scale_y_log10() + scale_x_log10() + annotation_logticks(sides="lb") +
+      geom_point() + theme_bw() +scale_y_log10(labels=function(x) axisFormat(x)) + scale_x_log10() + annotation_logticks(sides="lb") +
       theme(panel.grid.minor=element_blank()) + ylab(expression(Deposition~(ng/cm^2))) +
       scale_shape_manual("Nozzle",values=c(76, 84, 88)) + xlab("Distance (m)")+
       scale_color_manual("Wind speed (m/s)", values=c("black","dodgerblue","chocolate3"))
     setwd(outfolder)
-    ggsave(g.outlier, file="g.outlier.jpg", width=5.5, height=3)
+    ggsave(g.outlier, file="g.outlier_RAug10.jpg", width=5.5, height=3)
     
 
 # Table 3 and Fig 7.  Statistics on drift 2m+  ------------------------------------
@@ -428,10 +479,10 @@
       ylab(expression(Predicted~deposition~(ng/cm^2))) +
       scale_shape_manual("Nozzle",values=c(76, 84, 88)) +
       scale_color_manual("Wind speed (m/s)", values=c("black","dodgerblue","chocolate3"))+
-      scale_x_log10(limits=c(minmin, maxmax))+ scale_y_log10(limits=c(minmin, maxmax)) +
+      scale_x_log10(limits=c(minmin, maxmax), labels=function(x) axisFormat(x))+ scale_y_log10(limits=c(minmin, maxmax), labels=function(x) axisFormat(x)) +
       annotation_logticks(sides="lb")
     setwd(outfolder)
-    ggsave(g.resid, file="g.resid3.jpg", width=5, height=2.8)
+    ggsave(g.resid, file="g.resid3_RAug10.jpg", width=5, height=2.8)
     
 
 # Fig 8. Prediction graphs, part 1 -------------------------------------------------------
@@ -462,7 +513,7 @@
       ylab(expression(Deposition~(ng/cm^2))) +  xlab("Distance (m)") +
       scale_color_manual(NULL, values=c("chocolate4","chocolate3","tan")) +
       scale_fill_manual(NULL, values=c("chocolate4","chocolate3","tan")) +
-      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000)) +annotation_logticks(sides="lb") +
+      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000),labels=function(x) axisFormat(x)) +annotation_logticks(sides="lb") +
       theme(legend.position = c(.7,.9),panel.grid.minor=element_blank(),
             text=element_text(size=8),legend.key.height = unit(.1,"cm"),
             plot.title=element_text(size=8), legend.background = element_rect(fill = NA))
@@ -474,7 +525,7 @@
       ylab(expression(Deposition~(ng/cm^2))) +  xlab("Distance (m)") +
       scale_color_manual(NULL, values = c('cyan2','cornflowerblue','navyblue')) +
       scale_fill_manual(NULL, values=c('cyan2','cornflowerblue','navyblue')) +
-      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000)) +annotation_logticks(sides="lb") +
+      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000),labels=function(x) axisFormat(x)) +annotation_logticks(sides="lb") +
       theme(legend.position = c(.77,.9),panel.grid.minor=element_blank(),
             text=element_text(size=8),legend.key.height = unit(.1,"cm"),
             plot.title=element_text(size=8), legend.background = element_rect(fill = NA))
@@ -486,7 +537,7 @@
       ylab(expression(Deposition~(ng/cm^2))) +  xlab("Distance (m)")  +
       scale_color_manual(NULL, values=c("olivedrab3","green4")) +
       scale_fill_manual(NULL, values=c("olivedrab3","green4")) +
-      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000)) +annotation_logticks(sides="lb") +
+      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000),labels=function(x) axisFormat(x)) +annotation_logticks(sides="lb") +
       theme(legend.position = c(.77,.92),panel.grid.minor=element_blank(),
             text=element_text(size=8),legend.key.height = unit(.1,"cm"),
             plot.title=element_text(size=8), legend.background = element_rect(fill = NA))
@@ -498,7 +549,7 @@
       ylab(expression(Deposition~(ng/cm^2))) +  xlab("Distance (m)") +
       scale_color_manual(NULL,values = c('gray80','gray45','black')) +
       scale_fill_manual(NULL, values=c('gray80','gray45','black')) +
-      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000)) +annotation_logticks(sides="lb") +
+      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,9000),labels=function(x) axisFormat(x)) +annotation_logticks(sides="lb") +
       theme(legend.position = c(.68,.9),panel.grid.minor=element_blank(),
             text=element_text(size=8),legend.key.height = unit(.1,"cm"),
             plot.title=element_text(size=8), legend.background = element_rect(fill = NA))
@@ -559,7 +610,7 @@
       ylab(expression(Deposition~(ng/cm^2))) +  xlab("Distance (m)") +
       scale_color_manual(NULL,values = c("thistle","plum3","plum4")) + 
       scale_fill_manual(NULL, values=c("thistle","plum3","plum4")) +
-      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,13900)) +annotation_logticks(sides="lb") +
+      scale_x_log10(breaks=c(3,5,10,20)) + scale_y_log10(limits=c(29,13900),labels=function(x) axisFormat(x)) +annotation_logticks(sides="lb") +
       theme(legend.position = c(.68,.9),panel.grid.minor=element_blank(),
             text=element_text(size=8),legend.key.height = unit(.1,"cm"),
             plot.title=element_text(size=8), legend.background = element_rect(fill = NA))
@@ -569,7 +620,7 @@
     g.arranged<- grid.arrange(g.pred.1noz, g.pred.2ws, g.pred.3vol,
                               g.pred.4met, g.pred.5z, nrow=2)
     setwd(outfolder)
-    ggsave(g.arranged, file="g.pred5f.jpg", width=6.67, height=5.2)
+    ggsave(g.arranged, file="g.pred5f_RAug10.jpg", width=6.67, height=5.2)
 
 
 # Figs 10, A6.  Residual improvement ---------------------------------
@@ -594,11 +645,12 @@
     g.residdist<- ggplot(temp, aes(x=distance, y=residuals, color=variable)) +
       facet_grid(lab.pay ~ paste(wsf, "m/s")) +
       geom_hline(yintercept = 0) + geom_point(shape=1) + geom_smooth(method="loess", se=F) +
+      scale_y_continuous(labels=function(x) axisMinus(x))+
       scale_color_manual("Regression version", values=c("gray65","blue4"))+
       theme_bw() + ylab(expression(Residuals~(ln(ng/cm^2)))) + xlab("Distance (m)") +
       theme(legend.position = "bottom")
     setwd(outfolder)
-    ggsave(g.residdist, file="g.residdist.jpg", width=6.5, height=4.75)
+    ggsave(g.residdist, file="g.residdist_RAug10.jpg", width=6.5, height=4.75)
       
     
   #Fig A6.  Residuals vs. fitted shapes _________________________
@@ -613,7 +665,7 @@
         geom_point(size=2) + geom_hline(yintercept=0, color="gray55", linetype=2) + 
         xlab(expression(Predicted~deposition~(ln(ng/cm^2)))) + 
         ylab(expression(Residuals~(ln(ng/cm^2)))) + 
-        scale_y_continuous(limits=c(minmin, maxmax)) +
+        scale_y_continuous(limits=c(minmin, maxmax),labels = function(x) axisMinus(x)) +
         scale_shape_manual("Nozzle",values=c(76, 84, 88)) + ggtitle("Without 3D anemometer variable") +
         scale_color_manual("Wind speed (m/s)", values=c("black","dodgerblue","chocolate3")) +
         geom_smooth(aes(group=1), se=F, color="forestgreen") +
@@ -624,7 +676,7 @@
         geom_point(size=2) + geom_hline(yintercept=0, color="gray55", linetype=2) + 
         xlab(expression(Predicted~deposition~(ln(ng/cm^2)))) + 
         ylab(expression(Residuals~(ln(ng/cm^2)))) + 
-        scale_y_continuous(limits=c(minmin, maxmax)) +
+        scale_y_continuous(limits=c(minmin, maxmax),labels = function(x) axisMinus(x)) +
         scale_shape_manual("Nozzle",values=c(76, 84, 88)) + ggtitle("With 3D anemometer variable") +
         scale_color_manual("Wind speed (m/s)", values=c("black","dodgerblue","chocolate3")) +
         geom_smooth(aes(group=1), se=F, color="forestgreen") +
@@ -637,8 +689,8 @@
       
       g.resImprv <- grid.arrange(p1, p2, nrow=1)
       setwd(outfolder)
-      ggsave(g.resImprv, file="g.resImprv2.jpg", width=6.5, height=2.6)
-      ggsave(g.resImprv_legendonly, file="g.resImprv_legendonly.jpg", width=6.5, height=1)
+      ggsave(g.resImprv, file="g.resImprv2_RAug10.jpg", width=6.5, height=2.6)
+      ggsave(g.resImprv_legendonly, file="g.resImprv_legendonly_RAug10.jpg", width=6.5, height=1)
     
       
 # Fig A7.  Examples of curve alongside points -------------------------------------------
@@ -661,15 +713,16 @@
     p1<- ggplot(exs, aes(x=distance, y=mass, color=rep)) + geom_point() + 
       geom_point(aes(y=exp(predictions)), shape=24) + geom_line(aes(y=exp(predictions))) +
       theme_bw()+ facet_wrap(~examples, ncol=1)+ 
+      scale_y_continuous(labels=function(x) axisFormat(x))+
       scale_color_manual("Replicate", values=c("black","dodgerblue", "chocolate3")) +
       ylab(expression(Deposition~(ng/cm^2)~standard~scale)) + 
       xlab("Distance (m) standard scale") +theme(legend.position = "none")
-    p2<- p1 + scale_y_log10() + scale_x_log10(breaks=c(3,5,10,20)) + annotation_logticks(sides = "lb") +
+    p2<- p1 + scale_y_log10(labels=function(x) axisFormat(x)) + scale_x_log10(breaks=c(3,5,10,20)) + annotation_logticks(sides = "lb") +
       ylab(expression(Deposition~(ng/cm^2)~log~scale)) + xlab("Distance (m) log scale") 
     p3<- p1  +theme(legend.position = "bottom")
     
     g.examples<- grid.arrange(p2, p1, nrow=1)
     setwd(outfolder)
-    ggsave(g.examples, file="g.examples2.jpg", width=6.5, height=7)
-    ggsave(p3, file="g.examplesLegend.jpg", width=6.5, height=3)
+    ggsave(g.examples, file="g.examples2_RAug10.jpg", width=6.5, height=7)
+    ggsave(p3, file="g.examplesLegend_RAug10.jpg", width=6.5, height=3)
             
